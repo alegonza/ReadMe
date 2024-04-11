@@ -80,7 +80,7 @@ Emoji
 That is so funny! :joy: 
 
  
-[Emoji cheat sheet:]([https://www.webfx.com/tools/emoji-cheat-sheet/])
+[Emoji cheat sheet:](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 Highlight
 I need to highlight these ==very important words==. 
